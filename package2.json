@@ -1,7 +1,7 @@
 {
-  "name": "aoi.db",
+  "name": "aeos.db",
   "version": "1.0.0",
-  "description": "aoi.db - Database Management System with different types of databases.",
+  "description": "aeos.db - Database Management System with different types of databases.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "type": "commonjs",
@@ -21,16 +21,9 @@
   },
   "license": "MIT",
   "keywords": [
-    "aoi.db",
-    "aoidb",
-    "dbd.js",
-    "dbdjs",
-    "dbd",
-    "aoi.js",
-    "aoi",
-    "json",
-    "database",
-    "discord"
+    "aeos.db",
+    "aeosdb",
+    "aeos.js"
   ],
   "devDependencies": {
     "@types/benchmark": "^2.1.1",
